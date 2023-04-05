@@ -49,4 +49,3 @@
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=falgun-sk&theme=default" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falgun-sk&theme=default" align="center" />
 </p>
-
