@@ -23,7 +23,8 @@
 - 💻 I'm passionate about making creative websites.
 - 💬 Ask me about ***Web | Travel***
 - 💬  My portfolio is [(https://falgunbokde23.github.io/)]
-- 📫 How to reach me ***falgunbokde@gmail.com***      
+- 📫 How to reach me ***falgunbokde@gmail.com***   
+- My persnol GitHub account <a href="https://github.com/falgunbokde23">@falgun23</a>   
 <br/>
 <br/>
 <h2><i>Tech Stack</i></h2>
