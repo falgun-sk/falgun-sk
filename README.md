@@ -1,5 +1,5 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!👋, I'm <i>Falgun Bokde</i></h1>
-<h3 align="center">A self-motivated and ambitious Full Stack Developer , Passion-driven learner with the ability to write clean, reusable, optimised code. Skilled and experienced at building and maintaining Java based web applications. also experienced in servlet, jsp , javaScript and some other tools and technology</h3>
+<h3 align="center">A self-motivated and ambitious Full Stack Developer, a Passion-driven learner who can write clean, reusable, optimized code. Skilled and experienced in building and maintaining Java-based web applications. also experienced in servlet, JSP , JavaScript, and some other tools and technology</h3>
 <br/>
   
 <br/>
@@ -19,13 +19,13 @@
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=falgun-sk&label=Profile%20views&color=0e75b6&style=flat" alt="falgun-sk" /> </p>
 
-- 🔭 I’m currently Looking to contiribute to new projects 
-- 🌱 I’m currently Working at **Salesken.ai**
+- 🔭 I’m currently Looking to contribute to new projects 
+- 🌱 I’m currently working at **Salesken.ai**
 - 💻 I'm passionate about making creative websites.
 - 💬 Ask me about ***Web | Travel***
 - 💬  My portfolio is [(https://falgunbokde23.github.io/)]
 - 📫 How to reach me ***falgunbokde@gmail.com***   
-- My persnol GitHub account <a href="https://github.com/falgunbokde23">@falgun23</a>   
+- My personal GitHub account <a href="https://github.com/falgunbokde23">@falgun23</a>   
 <br/>
 <br/>
 <h2><i>Tech Stack</i></h2>
