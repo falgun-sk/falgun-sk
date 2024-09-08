@@ -1,5 +1,5 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!👋, I'm <i>Falgun Bokde</i></h1>
-<h3 align="center">A self-motivated and ambitious Full Stack Developer, a Passion-driven learner who can write clean, reusable, optimized code. Skilled and experienced in building and maintaining Java-based web applications. also experienced in servlet, JSP , JavaScript, and some other tools and technology</h3>
+<h3 align="center">A self-motivated and ambitious Full Stack Developer, a Passion-driven learner who can write clean, reusable, optimized code. Skilled and experienced in building and maintaining Java-based web applications. also experienced in servlet, JSP, JavaScript, and some other tools and technology</h3>
 <br/>
   
 <br/>
@@ -40,7 +40,7 @@
     <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 <br>
   # 📊 GitHub Stats:
