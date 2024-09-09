@@ -25,7 +25,7 @@
 - 💬 Ask me about ***Web | Travel***
 - 💬  My portfolio is [(https://falgunbokde23.github.io/)]
 - 📫 How to reach me ***falgunbokde@gmail.com***
-- ![image](https://github.com/user-attachments/assets/0791295c-a612-4601-abcf-3b5782116e0e)
+- PhoneNo : 7700059378
 
 - My personal GitHub account <a href="https://github.com/falgunbokde23">@falgun23</a>   
 <br/>
