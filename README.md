@@ -19,7 +19,7 @@
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=falgun-sk&label=Profile%20views&color=0e75b6&style=flat" alt="falgun-sk" /> </p>
 
-- 🔭 
+- IC contributor 🔭 
 - 🌱 I’m currently working at **Salesken.ai**
 - 💻 I'm passionate about making creative websites.
 - 💬 Ask me about ***Web | Travel***
